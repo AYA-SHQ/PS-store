@@ -8,6 +8,11 @@ package PS_store;
  *
  * @author DELL
  */
-public class NewClass {
+public class Psstore {
+    
+    
+    public static void main(String[] args) {
+        new LoginScreen().setVisible(true);
+    }
     
 }
