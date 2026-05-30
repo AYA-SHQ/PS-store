@@ -310,7 +310,7 @@ public class AccessoriesScreen extends javax.swing.JFrame {
     }    }//GEN-LAST:event_deleteActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        new MainDashboard().setVisible(true);
+        new MainDashboard1().setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jButton1ActionPerformed
 

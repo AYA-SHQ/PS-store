@@ -183,7 +183,7 @@ public class LoginScreen extends javax.swing.JFrame {
             if (rs.next()) {
                 //  إذا المعلومات الي دخلهم المستخدم طلعو صح ف طلع هاي الرساله وبعدها دخلو ع التطبيق الشاشه الرئيسه 
                 JOptionPane.showMessageDialog(this, "Login Successfully");
-                new MainDashboard().setVisible(true);
+                new MainDashboard1().setVisible(true);
         this.dispose();
             } else {
                 //  إذا المعلومات الي دخلهم المستخدم طلعو غلط ف طلع هاي الرساله
